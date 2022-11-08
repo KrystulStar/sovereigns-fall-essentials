@@ -1,0 +1,4 @@
+Name      = Field Effects
+Version   = 2.0
+Website   = https://reliccastle.com/resources/278/
+Credits   = Amethyst,Blind Guardian, BIGFriv, Golisopod User
