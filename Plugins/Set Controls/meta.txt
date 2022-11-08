@@ -1,4 +1,0 @@
-Name      = Set Controls
-Version   = 1.1.2
-Link      = https://reliccastle.com/resources/1038/
-Credits   = FL
